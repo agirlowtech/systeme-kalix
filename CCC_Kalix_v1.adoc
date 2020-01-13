@@ -12,7 +12,7 @@
 
 ********
 Par : {nom}, {adresse} (ci-après nommé {ref}) +
-État au : [DATE] | Consultable depuis l’adresse : {http_ccc} +
+État au : {date} | Consultable depuis l’adresse : {http_ccc} +
 Annexe : Conditions Générales de Contribution | Consultable depuis l’adresse : {http_cgc}
 ********
 

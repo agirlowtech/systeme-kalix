@@ -13,7 +13,7 @@
 
 ********
 Par : {nom}, {adresse} (ci-après nommé {ref}) +
-État au : [DATE] | Consultable depuis l’adresse : {http_cgc} +
+État au : {date} | Consultable depuis l’adresse : {http_cgc} +
 Annexe : Code de Conduite des Contributeurs | Consultable depuis l’adresse : {http_ccc}
 ********
 
@@ -23,7 +23,7 @@ Les présentes Conditions Générales de Contribution (les « CGC ») s’arti
 
 * [.underline]#Contributeur# : toute personne qui accède ou bénéficie, directement ou indirectement, des infrastructures physiques et/ou numériques de {ref} et/ou des fruits de ceux-ci ;
 * [.underline]#Responsable# : toute personne en charge d’une démarche contributive menée avec d’autres contributeurs ;
-* [.underline]#Infrastructure {ref}# : les infrastructures physiques, en particulier les locaux [ADRESSE], et numériques, en particulier {http_hub}, mises à disposition par {ref} ;
+* [.underline]#Infrastructure {ref}# : les infrastructures physiques, en particulier les locaux {adresse}, et numériques, en particulier {http_hub}, mises à disposition par {ref} ;
 * [.underline]#Licence Compatible# : cf. Article 4 ci-dessous.
 
 == Article {counter:article}. Champ d’application
@@ -92,7 +92,7 @@ L’accès au patrimoine informationnel commun est accessible gratuitement et li
 
 Chaque Contributeur s’engage à sourcer, à documenter et à partager, dans la mesure du possible et à l’échelle de ses moyens, l’ensemble des informations relatives aux échanges, activités, travaux et œuvres qui sont préparés, conçus et/ou réalisés dans l’Infrastructure {ref}.
 
-{ref} met gracieusement à disposition des Contributeurs un service Internet leur permettant d’accéder, d’ajouter et de contribuer en tout temps au dit patrimoine informationnel commun par téléversement sur le site Internet suivant : [HTTP/HUB]
+{ref} met gracieusement à disposition des Contributeurs un service Internet leur permettant d’accéder, d’ajouter et de contribuer en tout temps au dit patrimoine informationnel commun par téléversement sur le site Internet suivant : {http_hub}
 
 La mise à disposition de l’Infrastructure {ref}, en particulier les ressources en ligne, est fournie par {ref} en tant qu’obligation de moyen (« best effort »).
 
