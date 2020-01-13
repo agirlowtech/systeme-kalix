@@ -1,62 +1,165 @@
-= Code de Conduite des Contributeurs (CCC)
+= Conditions Générales de Contribution
 
 :nom: [NOM]
 :adresse: [ADRESSE]
-:email: [EMAIL]
 :date: [DATE]
 
 :http_cgc: [HTTP/CGC]
 :http_ccc: [HTTP/CCC]
 
+:http_hub: [HTTP/HUB]
+
 :ref: ***
 
 ********
-Par : {nom}, {adresse} (ci-après nommé {ref})
-
-État au : [DATE] | Consultable depuis l’adresse : {http_ccc}
-
-Annexe : Conditions Générales de Contribution | Consultable depuis l’adresse : {http_cgc}
+Par : {nom}, {adresse} (ci-après nommé {ref}) +
+État au : [DATE] | Consultable depuis l’adresse : {http_cgc} +
+Annexe : Code de Conduite des Contributeurs | Consultable depuis l’adresse : {http_ccc}
 ********
 
-== Notre engagement
+== Article {counter:article}. Définitions
 
-Dans l’intérêt de favoriser un environnement ouvert et accueillant, nous Contributeurs, en tant que responsables et en tant que personnes contribuant chez {ref}, à faire de la participation une expérience exempte de harcèlement pour tout le monde, quel que soit le niveau d’expérience, le sexe, l’identité ou l’expression de genre, l’orientation sexuelle, le handicap, l’apparence personnelle, la taille physique, l’origine ethnique, l’âge, la religion ou la nationalité.
+Les présentes Conditions Générales de Contribution (les « CGC ») s’articulent autour des notions suivantes :
 
-== Nos critères
+* [.underline]#Contributeur# : toute personne qui accède ou bénéficie, directement ou indirectement, des infrastructures physiques et/ou numériques de {ref} et/ou des fruits de ceux-ci ;
+* [.underline]#Responsable# : toute personne en charge d’une démarche contributive menée avec d’autres contributeurs ;
+* [.underline]#Infrastructure {ref}# : les infrastructures physiques, en particulier les locaux [ADRESSE], et numériques, en particulier {http_hub}, mises à disposition par {ref} ;
+* [.underline]#Licence Compatible# : cf. Article 4 ci-dessous.
 
-Exemples de comportements qui contribuent à créer un environnement positif :
+== Article {counter:article}. Champ d’application
 
-* l’utilisation d’un langage ouvert et accueillant ;
-* le respect des différents points de vue et expériences vécues ;
-* accepter poliment les critiques constructives ;
-* se concentrer sur ce qui est meilleur pour la communauté ;
-* faire preuve d’empathie envers les autres membres de la communauté.
+Les présentes CGC régissent :
 
-Exemples de comportements non acceptables :
+* le fonctionnement et les principes de l’Infrastructure {ref}, y compris son patrimoine informationnel ;
+* les droits et obligations des Contributeurs, individuellement et collectivement ;
+* les droits relatifs aux œuvres, données ou toutes autres créations réalisées par un ou plusieurs Contributeurs par le biais des infrastructures physiques et/ou numériques de {ref}.
 
-* l’utilisation de langage ou d’imagerie sexualisés et les avances sexuelles non sollicitées ;
-* le trolling, les commentaires insultants ou désobligeants, et les attaques personnelles ou d’ordre politique ;
-* le harcèlement en public ou en privé ;
-* la publication d’informations privées de tierces personnes, telles que des adresses physiques ou électroniques, sans permission explicite ;
-* toute conduite qui pourrait être raisonnablement considérée comme inappropriée dans le milieu professionnel ;
+{ref} et/ou chaque Contributeur peut se prévaloir des droits, obligations et règles contenues dans le CGC à l’encontre d’un ou plusieurs autres Contributeurs.
 
-== Nos responsabilités
+== Article {counter:article}. Missions
 
-Les Contributeurs de {ref} doivent clarifier les critères de comportement acceptables de toutes démarches contributives : il est attendu que ces personnes prennent les mesures correctives justes comme réponse à tout comportement inacceptable.
 
-Les personnes responsable qui assurent l’organisation des démarches contributives ont le droit et la responsabilité de supprimer, modifier ou rejeter les commentaires, documents, modifications, questions et autres contributions qui ne respectent pas ce Code de Conduite des Contributeurs, ou de bannir temporairement ou définitivement quiconque d’une démarche contributive, suite à des comportements jugés inappropriés, menaçants, injurieux, ou nuisibles.
+L’Infrastructure {ref} est mise à disposition dans les buts suivants :
 
-== Objectifs
+* Favoriser et/ou améliorer la concertation et la co-construction entre les Contributeurs ;
+* Constituer un patrimoine informationnel commun de manière durable ;
+* Soutenir et favoriser la progression des activités de chaque Contributeur.
 
-Ce Code de Conduite des Contributeurs s’applique à la fois au sein des espaces physique et virtuel de {ref} ainsi que dans les espaces publics lorsqu’un individu représente un projet ou sa communauté. Font parties des exemples de représentation d’un projet ou d’une communauté le fait d’utiliser une adresse e-mail propre à un projet, de poster sur les réseaux sociaux avec un compte officiel, ou d’intervenir pour représenter le projet au cours d’un événement en-ligne ou hors-ligne. La représentation d’un projet pourra être autrement définie et clarifiée par les responsables desdits projets.
+== Article {counter:article}. Principes de développement contributif ; licence compatible
 
-== Application
+Les principes du développement contributif s’appliquent au sein de l’Infrastructure {ref}, lesquels consistent à partager sous licence compatible l’ensemble des œuvres de l’esprit (textes, images, design, documentations, plans, etc.) issus des efforts et/ou de la concertation de Contributeurs dans l’Infrastructure {ref}, ainsi que des dérivés de celles-ci.
 
-Les cas de comportements abusifs, harcelants ou tout autre comportement inacceptable peuvent être signalés en contactant l’équipe de {ref} à {email}. Toutes les plaintes seront examinées et étudiées et se traduiront par une réponse appropriée aux circonstances. L’équipe de {ref} s’engage à garder confidentielles les informations de la personne qui remonte un incident. Plus de détails sur la politique de mise en application des règles peuvent être publiés séparément.
+Une licence compatible (« Licence Compatible ») est une licence libre ou ouverte (Open Source) qui est assujettie aux libertés et obligations suivantes :
 
-Les Contributeurs qui ne suivent ou qui n’appliquent pas le Code de Conduite des Contributeurs de bonne foi s’exposent temporairement ou de façon permanente à des répercussions définies par les responsables de {ref}.
+* Liberté d’utiliser ;
+* Liberté d’étudier ;
+* Liberté de modifier ;
+* Liberté de redistribuer, aussi à but lucratif ;
+* Obligation de citer l’auteur et les éventuelles modifications apportées ;
+* Obligation de répliquer le même modèle de licence pour toute œuvre dérivée.
 
+Les données issues des efforts et/ou de la concertation de Contributeurs sont en principe également assujetties à un régime équivalent.
+Pour constituer une licence compatible, chaque Contributeur soumet son œuvre ou toute autre création de l’esprit aux licences suivantes :
+
+* **pour les textes, images, vidéos, sons et infographies :**
++
+Licence Creative Commons CC-BY-SA 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/), ainsi que toute autre version ultérieure ;
++
+
+* **pour les logiciels et codes informatiques :**
++
+General Public Licence - GNU GPL v3 (https://www.gnu.org/licenses/gpl-3.0.fr.html) ou, Affero General Public Licence GNU AGPL v3 (https://www.gnu.org/licenses/agpl.html), ainsi que toute autre version ultérieure ;
++
+
+* **pour les designs matériels et mécaniques :**
++
+CERN Open Hardware License (https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2), ainsi que toute autre version ultérieure ;
++
+
+* **pour le reste ou subsidiairement ;**
++
+Toute autre licence strictement assimilable à une Licence Compatible au sens visé plus haut.
++
+
+
+Chaque Contributeur veille à la bonne application de la licence compatible applicable à une œuvre, ainsi qu’au respect du droit d’auteur (Copyright) à l’égard de ses propres œuvres ou autres créations de l’esprit, ainsi que de celles de tout autre Contributeur.
+
+== Article {counter:article}. Patrimoine informationnel commun
+
+Le patrimoine informationnel commun de l’Infrastructure {ref} se compose de toutes les œuvres et autres créations sous licence compatible.
+
+L’accès au patrimoine informationnel commun est accessible gratuitement et librement au public depuis le site internet {http_hub}.
+
+Chaque Contributeur s’engage à sourcer, à documenter et à partager, dans la mesure du possible et à l’échelle de ses moyens, l’ensemble des informations relatives aux échanges, activités, travaux et œuvres qui sont préparés, conçus et/ou réalisés dans l’Infrastructure {ref}.
+
+{ref} met gracieusement à disposition des Contributeurs un service Internet leur permettant d’accéder, d’ajouter et de contribuer en tout temps au dit patrimoine informationnel commun par téléversement sur le site Internet suivant : [HTTP/HUB]
+
+La mise à disposition de l’Infrastructure {ref}, en particulier les ressources en ligne, est fournie par {ref} en tant qu’obligation de moyen (« best effort »).
+
+== Article {counter:article}. Protection des données ; discrétion et confidentialité
+
+Chaque Contributeur, y compris le Responsable, est responsable de ses propos, des images et des informations, y compris les données personnelles, qu’il partage dans l’Infrastructure {ref} ; il en assume seul toute éventuelle conséquence.
+
+Toutes les informations communiquées dans l’Infrastructure {ref} sont réputées publiques, à moins que les circonstances ou les volontés exprimées ne le déterminent autrement. Seules les informations publiques peuvent être sourcées, documentées et/ou partagées dans le patrimoine informationnel commun.
+
+Dans l’Infrastructure {ref}, chaque Contributeur peut requérir qu’une information partagée soit placée sous le sceau de la confidentialité ou du secret. En tel cas, il en avertit les autres Contributeurs présents et délimite le champ d’information qu’il souhaite couvrir par cette mesure ; l’événement est verbalisée à valeur probatoire, autant que faire se peut.
+
+Si une information protégée par la confidentialité ou le secret est divulguée dans le patrimoine informationnel commun ou si elle s’apparente à des données personnelles dont la divulgation n’était pas consentie, {ref} s’engage à le supprimer de manière définitive dans un délai de 30 jours à compter du signalement.
+
+== Article {counter:article}. Règles de bonne foi et comportement compatible
+
+Dans leurs activités au sein de l’Infrastructure {ref}, les Contributeurs agissent conformément aux devoirs généraux découlant des règles de la bonne foi au sens de l’Article 2 Alinéa 1 du Code Civil suisse [RS210].
+
+Par ailleurs, chaque Contributeur s’engage à avoir un comportement conforme au Code de Conduite des Contributeurs (CCC) promulgué par {ref} et disponible à l’adresse : {http_ccc}.
+
+== Article {counter:article}. Responsabilité
+
+Chaque Contributeur est seul responsable de ses actes et omissions , et n’est titulaire d’aucun pouvoir de représentation envers {ref}.
+
+{ref} n’est pas responsable, ni garant des œuvres ou autres créations de l’esprit, activités, comportements, actes et/ou omissions des Contributeurs. En cas de réclamation, litige ou différend avec des tiers et/ou d’autres Contributeurs, le Responsable s’engage à décharger {ref} de toute procédure, prétention et/ou responsabilité s’y afférant, y compris tous frais y relatifs.
+
+Chaque Contributeur qui source, documente et/ou partage des informations relatives aux échanges, activités, travaux et œuvres qui sont préparés, conçus et/ou réalisés dans l’Infrastructure {ref}, est seul responsable de la publication et/ou du contenu mis en ligne de son fait.
+
+**Dans tous les cas, la responsabilité de {ref} se limite aux seuls cas de faute grave ou de dol (art. 100 al. 1 CO), et ne dérivant pas de fait d’auxiliaires (art. 101 al. 2 CO).**
+
+== Article {counter:article}. Exclusion d’un Contributeur
+
+{ref} ou le Responsable a droit, en tout temps et sans explication de motifs, de refuser ou de mettre fin à ses services et/ou l’accès à l’Infrastructure {ref} à un Contributeur, notamment en cas de comportement contraire à la lettre et/ou à l’esprit des présentes CGC (notamment cf. Articles 3 et 4) et du Code de Conduite des Contributeurs (CCC). Le Contributeur visé par une telle mesure est déchu de tout droit à un dédommagement ou à une compensation.
+
+L’accès au patrimoine informationnel commun tenu par {ref} est en principe préservé.
+
+== Article {counter:article}. Droit applicable
+
+Le droit suisse est exclusivement applicable.
+
+Le droit suisse s’applique également, sauf loi impérative ou stipulation exprès contraire, à tout accord discuté et/ou convenu entre Contributeurs dans ou à partir de l’Infrastructure {ref}.
+
+== Article {counter:article}. Résolution des différends ; for
+
+=== {article}.1 Dialogue
+
+En cas de litige ou de différend entre deux Contributeurs ou plus, ceux-ci s’efforce de le résoudre par le dialogue selon la lettre et/ou l’esprit des dispositions des présentes CGC et du Code de Conduite des Contributeurs (CCC).
+
+=== {article}.2 Conciliation
+
+S’ils n’y parviennent pas ou que toute tentative parait vouée à l’échec, et sous réserve de mesures provisionnelles ou toute autre intervention immédiate requise par un péril en la demeure, tous litiges ou différends nés des présentes CGC ou se rapportant à celles-ci seront d’abord soumis à une procédure de conciliation extrajudiciaire.
+
+La procédure de conciliation est initiée par déclaration écrite d’un Contributeur ou selon les dispositifs agencés dans les locaux de l’Infrastructure {ref}. Elle se déroule en français et dans les locaux de l’Infrastructure {ref} sauf accord contraire.
+
+Une fois la procédure de conciliation initiée, les parties proposent la désignation d’un conciliateur, en principe parmi les autres Contributeurs. Si la proposition des parties concorde, le conciliateur est désigné comme conciliateur unique (organe de conciliation). Si la proposition des parties ne concorde pas, les parties nomment un conciliateur chacune ; ces conciliateurs désignent ensuite un dernier conciliateur qui présidera le conseil des conciliateurs (organe de conciliation). Si les conciliateurs des parties ne parviennent pas à désigner un dernier conciliateur, {ref} peut, à son entière discrétion, choisir de le désigner à leur place ou désigner à la place un conciliateur unique.
+
+L’organe de conciliation convoque les parties et les entend à plus brefs délais. Il s’efforce de comprendre et de faire comprendre les positions respectives des parties, dans la perspective de parvenir à un accord qui résolve le litige ou le différend. Après avoir entendu les parties et échangé les vues, le conciliateur propose aux parties un accord en tant que solution de leur litige ou de leur différend ; cette proposition est faite en équité au regard des intérêts en jeu et selon la lettre et l’esprit des présentes CGC ainsi que du Code de Conduite des Contributeurs (CCC).
+
+=== {article}.3 For exclusif
+
+Dans le cas où, sous réserve d’un accord écrit contraire, le litige ou le différend n’a pu être entièrement résolu par la conciliation dans un délai de 3 mois à compter de l’ouverture de la conciliation ou si toute solution du litige ou du différend par l’organe de conciliation semble définitivement compromise dans ce même délai, chaque partie peut faire valoir ses prétentions devant la juridiction ordinaire de la République et du Canton de Genève, les recours au Tribunal fédéral demeurant réservés.
+
++++<br/>+++
++++<br/>+++
++++<br/>+++
++++<br/>+++
++++<br/>+++
 
 [.underline]#Mention légale# :
 
-Le présent Code de Conduite des Contributeurs (CCC) utilisé par {ref} est une copie à l'identique d'un document faisant partie du système Kalix créé par http://kalix.ch. Ce Code de Conduite est basée sur une version modifiée du Contributor Covenant, version 1.4, disponible à l’adresse https://www.contributor-covenant.org/fr/version/1/4/code-of-conduct. Ce document peut être utilisé, étudié, copié, modifié et distribuée selon les principes de la Déclaration de Biens Communs Numérisés disponible à l'adresse http://kalix.ch/declaration-de-biens-communs-numerises/. La licence CC BY-SA 4.0 International s’applique.
+Les présentes Conditions Générales de Contribution (CGC) utilisée par {ref} est une copie à l'identique d'un document faisant partie du système Kalix créé par http://kalix.ch et http://idealex.ch. Ce document peut être utilisé, étudié, copié, modifié et distribué selon les principes de la Déclaration de Biens Communs Numérisés disponible à l'adresse http://kalix.ch/declaration-de-biens-communs-numerises/. La licence CC BY-SA 4.0 International s’applique.
