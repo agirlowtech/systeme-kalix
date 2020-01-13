@@ -1,0 +1,102 @@
+:ref: ***
+
+*****
+Déclaration de Biens Communs Numérisés  – v01.11.17  |  Système Kalix® +
+Un mème juridique à dupliquer et utiliser librement comme mention légale +
+pour régir le droit d'auteur de vos œuvres originales. +
+*****
+
+= Déclaration de Biens Communs Numérisés
+
+La Déclaration de Biens Communs Numérisés est un mème juridique, utilisé et répliqué à l'identique par les auteurs qui souhaitent en faire valoir les principes. Elle a pour but de définir l'intention initiale de l'Auteur qui y fait référence ainsi que les droits et les libertés qu'il décide de concéder pour l'utilisation, la modification, la copie et la distribution de son œuvre originale. De manière générale, il est rappelé que l'Auteur qui fait référence à la présente Déclaration de Biens Communs Numérisés met à disposition de la Société son œuvre originale, dans un esprit de partage et d'entraide, avec l'intention de contribuer de manière responsable au développement de la Société.
+
+Il est convenu ici que le terme « biens communs numérisés » désigne les œuvres originales composées de connaissances, de savoirs, d'informations, de sons, d'images, de vidéos, de designs, de plans, de méthodes, de logiciels et de toutes sources pouvant être stockées sur un support numérique garant de la réplicabilité et pour lesquelles leurs auteurs concèdent à tout un chacun des droits d'utilisation, d'étude, de reproduction, de modification et de distribution compatibles avec les principes de la présente Déclaration de Biens Communs Numérisés.
+
+En contre partie du respect des principes promulgués par la présente Déclaration de Biens Communs Numérisés, l'Auteur de l'œuvre originale autorise tout un chacun à :
+
+* Utiliser librement toute ou une partie de son œuvre originale ;
+* Étudier librement toute ou une partie de son œuvre originale ;
+* Copier librement toute ou une partie de son œuvre originale ;
+* Modifier librement toute ou une partie de son œuvre originale ;
+* Distribuer librement toute ou une partie de son œuvre originale ou des dérivés ;
+
+Ces droits sont accordés de manière illimitée uniquement si le bénéficiaire de l’œuvre originale s'engage à :
+
+* Respecter la mention et le copyright de l'Auteur de l’œuvre originale pour permettre sa pleine reconnaissance sociale dans le cas de la distribution de copies originales ou modifiées, de la création d’œuvres dérivées utilisant tout ou une partie de son œuvre originale ou encore lors de la distribution de services utilisant tout ou une partie de son œuvre originale;
+* Mentionner dans le cas de la distribution de copies modifiées, d’œuvres dérivées ou de services toutes les modifications et les composants utilisés de l’œuvre originale de manière à assurer la reconnaissance sociale de l'Auteur ainsi que le respect de la nature de son œuvre originale, de son intention initiale et de son copyright;
+* Décharger l'Auteur de l’œuvre originale de toute responsabilité concernant l'usage de l’œuvre originale, son application, son interprétation, ses implications et  de toutes conséquences consécutives à son utilisation;
+* Mentionner, appliquer et respecter la présente Déclaration de Biens Communs Numérisés à l'identique pour toutes les distributions de copies, de copies modifiées, d'œuvres dérivées ou de services utilisant toute ou une partie l'œuvre originale de l'Auteur.
+
+La présente Déclaration de Biens Communs Numérisés constitue les principes fondamentaux de licence que l'Auteur concède sur son œuvre originale. En cas de non respect, l'Auteur pourra faire valoir par voie conventionnelle son droit d'auteur pour demander le respect des principes de la présente Déclaration. Il en va de même dans la cas inverse, si l'Auteur entrave l'application de la présente Déclaration, le bénéficiaire lésé pourra utiliser cette dernière pour faire valoir ses droits auprès d'une autorité compétente. L'Auteur est libre de préciser les droits qu'il accorde sur toute ou une partie de son œuvre originale en utilisant des licences compatibles avec les principes de la présente Déclaration de Biens Communs Numérisés.
+
+Fin de la Déclaration de Biens Communs Numérisés dans sa version 1.0 disponible par Internet à l'adresse http://kalix.ch/declaration-de-biens-communs-numerises/.
+
+== #1 - Exemple de mention légale avec la Déclaration intégrée
+
+[.underline]#Mention légale – droit d'auteur#  :
+
+Cette œuvre originale a été produite à LIEU par {ref} qui en est l'Auteur. +
+Elle est soumise au droit d’auteur et a pour vocation d'être régie selon la Déclaration de Biens Communs Numérisés mentionnée ci-après. Cette Déclaration de Bien Communs Numérisés fait valeur de référence pour définir l'intention initiale de l'Auteur ainsi que les principes fondamentaux de licence qu'il concède pour l'utilisation, l'étude, la copie, la modification et la distribution de son œuvre originale.
+
+Déclaration des Biens Communs Numérisés :
+
+...(copie à l'identique de la Déclaration de Biens Communs Numérisés, cf. page 1)
+
+
+== #2 -  Exemple de mention légale avec la Déclaration en lien externe http://
+
+[.underline]#Mention légale – droit d'auteur#  :
+
+Cette œuvre originale a été produite à LIEU par {ref} qui en est l'Auteur . +
+Elle est soumise au droit d’auteur et a pour vocation d'être régie selon la Déclaration de Biens Communs Numérisés disponible à l'adresse http://kalix.ch/declaration-de-biens-communs-numerises/. Cette Déclaration de Biens Communs Numérisés fait valeur de référence pour définir l'intention initiale de l'Auteur et les principes fondamentaux de licence qu'il concède pour l'utilisation, l'étude, la copie, la modification et la distribution de son œuvre originale.
+
+
+== #3 - Exemple simplifié de mention légale avec la Déclaration en lien externe http://.
+
+Auteur : NOM © 2017 | Une œuvre originale pouvant être utilisée, étudiée, copiée, modifiée et distribuée selon les principes de la Déclaration de Biens Communs Numérisés (http://kalix.ch/declaration-de-biens-communs-numerises/).
+
+
+== #4 -  Exemple de mention légale avec plusieurs auteurs pour une œuvre collective
+
+[.underline]#Mention légale – droit d'auteur# :
+
+Cette œuvre originale a été produite de manière collective à LIEU par le groupe nommé {ref} qui en est l'Auteur . +
+Le groupe {ref} se compose de NOM1, NOM2, NOM3.
+
+Cette œuvre originale est soumise au droit d’auteur et a pour vocation d'être régie selon la Déclaration de Biens Communs Numérisés disponible à l'adresse http://kalix.ch/declaration-de-biens-communs-numerises/. Cette Déclaration de Biens Communs Numérisés fait valeur de référence pour définir l'intention initiale de l'Auteur et les principes fondamentaux de licence qu'il concède pour l'utilisation, l'étude, la copie, la modification et la distribution de son œuvre originale.
+
+
+== #5 - Note concernant l'intégration
+
+La Déclaration de Biens Communs Numérisés peut être copiée et intégrée librement sur une page d'un site Internet externe. L'adresse de cette page Internet peut alors être utilisée en lieu et place de l'adresse http://kalix.ch/declaration-de-biens-communs-numerises/.
+
+
+
+== #6 - Autres Variables
+
+À utiliser dans la mention légale si l'origine de l’œuvre est basée sur une autre œuvre également régie par les principes de la Déclaration des Biens Communs Numérisés :
+
+
+Elle est une copie à l'identique de l’œuvre originale produite par XYZ à LIEU.
+
+ou
+
+Elle est une copie modifiée de l’œuvre originale produite par XYZ à LIEU.
+Les modifications suivantes ont été apportées : … (liste exhaustive)
+
+ou
+
+Elle est composé d'éléments provenant de l’œuvre originale de XYZ, dont : … (liste exhaustive)
+
++++<br/>+++
++++<br/>+++
++++<br/>+++
++++<br/>+++
++++<br/>+++
++++<br/>+++
++++<br/>+++
+
+
+====== [.underline]#Mentions légales# :
+
+La Déclaration de Biens Communs Numérisés est une œuvre attribuée au domaine public.  La version 1.0 a été rédigée par Kalix, Lionel Lourdin à Genève en 2017. Son utilisation, sa copie, sa modification et sa distribution sont libres de tous droits.

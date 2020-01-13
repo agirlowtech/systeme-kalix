@@ -1,0 +1,39 @@
+:ref: ***
+
+*****
+Règlement de participation pour un tiers-lieu privé v1.0  |  Système Kalix® v3
+*****
+
+Remplacer le terme {ref} par le nom de votre activité.
+
+
+= Tiers-lieu {ref}  |  Règlement pour les participants
+
+Le présent règlement définit les conditions de participation du Tiers-lieu {ref} organisé entre plusieurs contributeurs du Réseau {ref}. Seuls les personnes inscrites comme « contributeurs » du Réseau {ref} ont le droit de participer à un Tiers-lieu {ref}. Il est rappelé que les Contributeurs du Réseau {ref} ont tous pris l'engagement de respecter les règles d'éthique et de déontologie de travail promulguées par le Code {ref}.
+
+* Un Tiers-lieu {ref} est une démarche exploratoire ayant pour but de favoriser la rencontre de contributeurs de différentes compétences au sein d'un lieu neutre. Ceci afin de co-construire ensemble des biens communs et des designs de services novateurs autour de systèmes d'information, de technologies et de savoirs libres et ouverts dans l'esprit de la Déclaration de Principes du Sommet Mondial de la Société de l'Information (SMSI, Genève 2003).
+
+* Les initiateurs d'un Tiers-lieu {ref} sont responsables d'en définir l'intention et de conduire son exploration. Il en précise si nécessaire le protocole par un règlement complémentaire au présent règlement, ceci afin de rendre l'exploration la plus efficiente possible, dans un climat le plus propice à la co-construction par les contributeurs.  Les initiateurs mettent à disposition des Contributeurs un Animateur qui accompagne le déroulement du Tiers-lieu {ref}.
+
+* Dans le respect des fondements du Code {ref}, Les initiateurs et les Contributeurs veilleront tout particulièrement à respecter des principes de confidentialité et de secret compatibles avec la mission du Tiers-lieux {ref}. Ils délimiteront et signaliseront lors de la tenue du Tiers-lieu {ref}, de la manière la plus précise possible, les champs d'informations affectés au domaine du secret professionnel.
+
+* Pour favoriser la constitution de biens communs numérisés, les initiateurs et les Contributeurs s'engagent à placer dans la mesure du possible les travaux, inventions et contributions qu'ils pourraient réaliser durant la tenue du Tiers-lieu {ref} sous le régime des licences libres CC BY-SA, CERN OHL, GNU GPL et autres licences compatibles conformément au type d'affectation des biens créés (texte, design, système, code informatique,…). De manière générale, les initiateurs et les Contributeurs s'engagent à respecter les principes et fondements des licences libres compatibles dans le cadre de leur participation au Tiers-lieu {ref} en utilisant notamment la Déclaration de Biens Communs Numérisés disponible à l'adresse http://www.kalix.ch/declaration-de-biens-communs-numerises/.
+
+* Les Contributeurs conviennent que les design de services, les services informationnels et les biens communs informationnels consécutifs aux développements et travaux menés durant le Tiers-lieu {ref} pourront faire l'objet de réglementations d'exploitation, garantissant les libertés de copie, d'exploitation, de contribution et d'études mais pouvant interdire la distribution de copies modifiées. Ceci afin de garantir l'intégrité et la responsabilité sociétale inhérentes au partage public de certains domaines d'informations sensibles qui auraient pu être découvert lors du Tiers lieu {ref}.
+
+* Pour permettre le partage des travaux, un Historien engagé par les initiateurs est chargé de rassembler sur un support numérique pérenne l'ensemble de l'histoire du Tiers-lieu {ref}, comprenant ses contributeurs, ses origines, ses valeurs, ses innovations et ses biens communs. Chaque Contributeur est libre d'accéder gratuitement à l'ensemble de ces informations et d'en demander une copie numérique.
+
+* Chaque Contributeur reste seul responsable des biens et informations qu'il apporte de son gré dans le Tiers-lieu {ref}. Il se charge notamment d'assurer son matériel contre le vol ou la casse.
+
+* Chaque Contributeur s'engage à avoir un comportement compatible avec l'organisation du Tiers-lieu {ref} et dans ses interactions avec les autres Contributeurs. Les initiateurs se réservent le droit d'intervenir en cas de comportement incompatible. En cas de récidive, le Contributeur peut être invité à quitter le Tiers-lieu {ref} et être interdit de participation.
+
++++<br/>+++
++++<br/>+++
++++<br/>+++
++++<br/>+++
++++<br/>+++
++++<br/>+++
+
+[.underline]#Mentions légales#
+
+Le présent règlement utilisé par {ref} pour régir ses tiers-lieux est une copie à l'identique d'un document faisant partie du système Kalix v3 créé par http://www.kalix.ch. Ce document peut être utilisé, étudié, copié, modifié et distribué selon les principes de la Déclaration de Biens Communs Numérisés disponible à l'adresse http://kalix.ch/declaration-de-biens-communs-numerises/.
